@@ -1,8 +1,8 @@
 This is my submission for Assignment 5. To compile and run, use the following commands:
 
 
-make Semaphore for the semaphore program,
-make Conditional for the conditional program.
+make Semaphore for the semaphore program, it will create an obeject named Semaphore
+make Conditional for the conditional program, it will create an object named Conditional
 
 Each program takes three arguments, a number of cycles, a number of threads, and a string to be used in the buffer.
 
