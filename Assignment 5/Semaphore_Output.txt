@@ -1,0 +1,823 @@
+chris27@CF164-07:~/Desktop/322_A2/A_5$ ./Semaphore 20 20 hello
+hello is arg 3 argc 4producer:
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+Consumer 1 read hello
+Consumer 0 read hello
+Consumer 2 read hello
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+Consumer 3 read hello
+Consumer 4 read hello
+post sem 10
+Consumer 5 read hello
+post sem 11
+Consumer 10 read hello
+post sem 12
+Consumer 7 read hello
+Consumer 8 read hello
+post sem 13
+post sem 14
+Consumer 9 read hello
+post sem 15
+Consumer 14 read hello
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 11 read hello
+Consumer 19 read hello
+Consumer 13 read hello
+Consumer 6 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 12 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+Consumer 0 read hello
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+Consumer 1 read hello
+post sem 15
+Consumer 2 read hello
+post sem 16
+post sem 17
+Consumer 3 read hello
+post sem 18
+post sem 19
+Consumer 4 read hello
+Consumer 19 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 5 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+Consumer 0 read hello
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+Consumer 0 read hello
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Writing to buffer.
+post sem 0
+post sem 1
+post sem 2
+post sem 3
+post sem 4
+post sem 5
+post sem 6
+post sem 7
+post sem 8
+post sem 9
+post sem 10
+post sem 11
+post sem 12
+post sem 13
+post sem 14
+post sem 15
+post sem 16
+post sem 17
+post sem 18
+post sem 19
+Consumer 0 read hello
+Consumer 1 read hello
+Consumer 2 read hello
+Consumer 3 read hello
+Consumer 4 read hello
+Consumer 5 read hello
+Consumer 6 read hello
+Consumer 7 read hello
+Consumer 8 read hello
+Consumer 9 read hello
+Consumer 10 read hello
+Consumer 11 read hello
+Consumer 12 read hello
+Consumer 13 read hello
+Consumer 14 read hello
+Consumer 15 read hello
+Consumer 16 read hello
+Consumer 17 read hello
+Consumer 18 read hello
+Consumer 19 read hello
+Total writes: 20 Total Reads: 400
