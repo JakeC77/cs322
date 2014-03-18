@@ -9,4 +9,4 @@ make parallel_row
 make serial_col
 make parallel_col
 
-all of these will create objects of the same name.
+all of these will create objects of the same name. Each program runs with 1 argument, a value for N.
